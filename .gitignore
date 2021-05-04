@@ -1,0 +1,5 @@
+data/*
+work/*
+
+.venv
+__pycache__
